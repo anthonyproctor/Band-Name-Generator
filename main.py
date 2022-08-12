@@ -1,5 +1,5 @@
 #Welcome to the Band Name Generator
-#By: Anthony ProctorR
+#By: Anthony Proctor
 print("Hello, and welcome to my Band Name Generator!\n")
 
 city = input("What is the name of the city that you grew up in?\n")
